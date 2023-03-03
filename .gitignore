@@ -1,0 +1,4 @@
+# build folder
+
+build/
+CMakeLists.txt.*
